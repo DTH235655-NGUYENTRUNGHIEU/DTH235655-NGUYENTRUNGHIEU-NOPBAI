@@ -1,0 +1,5 @@
+print('a' ,end = ' ')
+print('b', end = '+')
+print('c', end = '\n')
+print('hoc lap trinh python')
+print('python')
