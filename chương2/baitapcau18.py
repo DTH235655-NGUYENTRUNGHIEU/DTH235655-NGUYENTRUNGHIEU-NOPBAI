@@ -16,7 +16,6 @@ def uocsots(n):
         if n % i == 0:
             tong = tong + i
     return tong
-#c
 n = int(input('nhap n: '))
 print('số lượng ước nguyên tố: ',demuocnt(n))
 print('tong uoc so: ',uocsots(n))
