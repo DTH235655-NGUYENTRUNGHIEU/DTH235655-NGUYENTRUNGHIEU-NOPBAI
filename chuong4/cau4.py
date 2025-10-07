@@ -11,5 +11,5 @@ dt = int(input("nhập doanh thu: "))
 cp = int(input("nhập chi phí: "))
 roi = ROI(dt,cp)
 print("tỉ lệ roi",roi)
-print("==>",GoiYDauTu(roi))
+print("==>",GoiYDauTu(roi)) 
 
